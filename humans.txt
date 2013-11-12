@@ -1,28 +1,21 @@
                             
 /* TEAM */
 
-                            
-Frontend Developer: Paulo Matos
-
-                            
-Site: www.pageone.com.br
-
-                            
-Twitter: @PauloRMV
-
-                            
+Designer e UI: Alexandre Santos                            
+Site: www.pageone.com.br                           
 Location: Brazil
-
-                         
-                 
-                        [...]
-						
+             
+Frontend Developer: Paulo Matos                            
+Site: www.pageone.com.br                            
+Twitter: @PauloRMV                            
+Location: Brazil
+	
 
 							
 /* THANKS */
 
 							
-Fernando Gaiofatto: name or url
+Sponsor: Fernando Gaiofatto
 
 						
                  
@@ -33,13 +26,7 @@ Fernando Gaiofatto: name or url
 /* SITE */
 
                             
-Last update: YYYY/MM/DD 
-
-                            
-Standards: HTML5, CSS3, EcmaScript 3
-
-                            
-Components: Modernizr, jQuery, etc.
-
-                            
-Software: Sublime Text 3, Chrome Canary, LiveReload
+	Language: Portuguese / English
+	Doctype:HTML5
+	IDE: Sublime Text, FileZilla, Photoshop
+	Tools: Grunt, Yeoman, LiverReload, Chrome Dev Tools, Autosave
